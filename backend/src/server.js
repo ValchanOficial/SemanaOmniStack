@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 const path = require('path');
 const cors = require('cors');
 const app = express();
-app.use(cors());
+app.use(cors()); // todo mundo pode acessar o app e consumir os recursos
 const server = require('http').Server(app);
 const io = require('socket.io')(server);
 
