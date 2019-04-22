@@ -8,8 +8,7 @@ Softwares necessários:
 - [NodeJS+NPM](https://www.npmjs.com/get-npm) = via cmd "**cinst nodejs**";
 - [Yarn](https://yarnpkg.com/pt-BR/) = via cmd "**choco install yarn**" ou "**npm install -g yarn**";
 - [Insomnia](https://insomnia.rest/);
+- [Heroku](https://www.heroku.com/);
 
-Verificar se foi instalado corretamente:
-**node -v
-npm -v
-yarn --version**
+Verificar se foram instalados corretamente: 
+**node -v, npm -v, yarn --version**
