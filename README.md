@@ -7,6 +7,7 @@ Softwares necessários:
 - [Chocolatey](https://chocolatey.org/install);
 - [NodeJS+NPM](https://www.npmjs.com/get-npm) = via cmd "**cinst nodejs**";
 - [Yarn](https://yarnpkg.com/pt-BR/) = via cmd "**choco install yarn**" ou "**npm install -g yarn**";
+- [Insomnia](https://insomnia.rest/);
 
 Verificar se foi instalado corretamente:
 **node -v
