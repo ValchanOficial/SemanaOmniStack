@@ -1,6 +1,6 @@
 ﻿# Semana OmniStack
 
-Rocketseat - Semana OmniStack: De 8 a 14 de Abril de 2019
+[Rocketseat](https://rocketseat.com.br/bootcamp) - Semana OmniStack: De 8 a 14 de Abril de 2019
 
 Softwares necessários:
 - [VSCode](https://code.visualstudio.com/);
